@@ -6,7 +6,7 @@
 
 - 🔭 Coordenador de Vendas e Desenvolvedor Back-end
 - 🌱 Estudando TypeScript
-- 😁 Aproveite para conhecer um pouco do meu trabalho !
+- 😁 Aproveite para conhecer um pouco do meu trabalho!
 ##
 
 # Tools i know
