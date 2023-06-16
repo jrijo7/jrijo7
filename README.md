@@ -26,5 +26,5 @@
 
 📫 Você pode entrar em contato comigo através do e-mail joaovictor_gomes.7@hotmail.com ou pelos seguintes meios:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-do-linkedin/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario-do-instagram/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-56b5481b6)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/j_rijo.7?igshid=NGExMmI2YTkyZg==)
