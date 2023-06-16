@@ -12,9 +12,8 @@
 # Tools i know
 
 <!--tech stack icons-->
-- R
+- R + RCPP
 - Python
-- C++
 - JavaScript
 - Typescript
 
