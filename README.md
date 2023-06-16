@@ -9,35 +9,28 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrijo7&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&theme=radical&show_icons=true)](https://github.com/jrijo7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&theme=radical&show_icons=true&layout=compact)](https://github.com/jrijo7/github-readme-stats)
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,github,html,js,python,r,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,git,css,figma,github,html,vscode&perline=14" />
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+##
 
 <!--icons and links-->
-<p align="left">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-56b5481b6/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/j_rijo.7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="left"
+      src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="azzar" height="30"/></a>
+  <a href="https://fb.com/1999AZZAR" target="blank"><img align="left"
+      src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="azzar" height="30"/></a>
+  <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="left"
+      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="azzar" height="30"/></a>
 </p>
