@@ -1,16 +1,15 @@
+<img style="margin-top: 40px;" align="right" width="400px" src="https://64.media.tumblr.com/d1c3c440972312cd037af0b041ea3a88/tumblr_pnm8l1DrRK1rgx1dyo1_540.gif">
+
 ### Olá, eu sou o João 👋
 ### Bem vindo ao meu GitHub
 ##
 
 - 🔭 Gerente, Coordenador de Vendas e Desenvolvedor Back-end
-- 🌱 Estudando TypeScript e tentando me tornar um cientista de dados
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Otaku, Dorameiro e Estatístico em progresso.
+- 🌱 Estudando TypeScript
+- 😁 Aproveite para conhecer um pouco do meu trabalho !
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrijo7&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&theme=radical&show_icons=true&layout=compact)](https://github.com/jrijo7/github-readme-stats)
-
+# Tools i know
 
 <!--tech stack icons-->
 <p align="left">
@@ -18,6 +17,9 @@
     <img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,git,css,figma,github,html,vscode&perline=14" />
   </a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrijo7&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&theme=radical&show_icons=true&layout=compact)](https://github.com/jrijo7/github-readme-stats)
 
 ##
 
