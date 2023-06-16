@@ -6,6 +6,10 @@
 - 🌱 Estudando TypeScript e tentando me tornar um cientista de dados
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Otaku e Estatístico em progresso.
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrijo7&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&theme=radical&show_icons=true)](https://github.com/jrijo7/github-readme-stats)
 
 
 <!--h1 without bottom border-->
