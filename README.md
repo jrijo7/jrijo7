@@ -22,15 +22,18 @@
 ##
 
 <!--icons and links-->
-<p align="center">
+<p align="left">
   <br/>
+  <a href="https://instagram.com/j_rijo.7?igshid=NGExMmI2YTkyZg==" target="blank"><img align="left"
+      src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+      alt="instagram" height="25"/></a>
+  <a href="mailto:joaovictorgomes1997@gmail.com" target="blank"><img align="left"
+      src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"
+      alt="gmail" height="25"/></a>
+  <a href="https://t.me/keytarou" target="blank"><img align="left"
+      src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"
+      alt="telegram" height="25"/></a>
   <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="left"
-      src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="azzar" height="30"/></a>
-  <a href="https://fb.com/1999AZZAR" target="blank"><img align="left"
-      src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="azzar" height="30"/></a>
-  <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="left"
-      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="azzar" height="30"/></a>
+      src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
+      alt="linkedin" height="25"/></a>
 </p>
