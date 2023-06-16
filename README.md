@@ -2,10 +2,10 @@
 ### Bem vindo ao meu GitHub
 ##
 
-- 🔭 Sou Gerente, Coordenador de Vendas e Desenvolvedor Back-end
+- 🔭 Gerente, Coordenador de Vendas e Desenvolvedor Back-end
 - 🌱 Estudando TypeScript e tentando me tornar um cientista de dados
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Otaku e Estatístico em progresso.
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fun fact: Otaku, Dorameiro e Estatístico em progresso.
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrijo7&theme=radical&show_icons=true)
