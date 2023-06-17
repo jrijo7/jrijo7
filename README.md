@@ -14,10 +14,10 @@
 ### Technologies I'm familiar with
 
 <!--tech stack icons-->
-- ![R + RCPP](https://img.shields.io/badge/-R%20%2B%20RCPP-276DC3?style=flat&logo=r&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![R + RCPP](https://img.shields.io/badge/-R%20%2B%20RCPP-276DC3?style=flat-square&logo=r&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Statistics
 
@@ -29,5 +29,5 @@
 
 📫 You can reach me via email at joaovictor_gomes.7@hotmail.com or connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-56b5481b6)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/j_rijo.7?igshid=NGExMmI2YTkyZg==)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-56b5481b6)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/j_rijo.7?igshid=NGExMmI2YTkyZg==)
