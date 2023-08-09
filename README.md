@@ -21,9 +21,9 @@
 
 ### Statistics
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrijo7&theme=dracula&show_icons=true&count_private=true&hide=issues,contribs)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrijo7&theme=dracula&show_icons=true&hide=issues,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&theme=dracula&layout=compact)](https://github.com/jrijo7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&layout=compact&theme=dracula)](https://github.com/jrijo7/github-readme-stats)
 
 ### Contact
 
