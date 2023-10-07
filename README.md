@@ -7,7 +7,6 @@
   
   🎓 I am studying Statistics at the [UFRJ](https://ufrj.br/en/).  
   💼 I work as a freelancer.  
-  
   📖 I am currently focusing on learning JavaScript, TypeScript, Node.js, and React.  
   😁 Feel free to explore some of my work!
 </div>
