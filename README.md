@@ -6,7 +6,7 @@
   ## Welcome to my GitHub!
   
   🎓 I am studying Statistics at the [UFRJ](https://ufrj.br/en/).  
-  💼 I work as a Sales Coordinator and Backend Developer at [EJCM](https://ejcm.com.br/).  
+  💼 
   📖 I am currently focusing on learning JavaScript, TypeScript, Node.js, and React.  
   😁 Feel free to explore some of my work!
 </div>
