@@ -1,38 +1,32 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bf7d&height=150&section=header" width="100%">
+### Joao Victor aqui :)
 
-<div align="center">
+Estudante de Estatística e apaixonado por dados. Em transição para me tornar Cientista/Analista de Dados, unindo a base acadêmica sólida com desenvolvimento de projetos reais, pesquisa científica e engenharia web.
 
-### Hello World! 📊 ✨
-**My name is Joao Victor.**
+* 🎓 Graduando em Estatística na **UFRJ**
+* 🔬 Pesquisador de iniciação científica atuando com análise e extração de grandes volumes de dados ambientais
+* 🐶 Nas horas vagas, apaixonado por tecnologia e por passar o tempo com meu cachorro, Batatinha
+* 💻 Atualmente mais focado em:
 
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+</p>
 
 <br>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="40%">
-      <!-- Replace the link below with your own picture or illustration -->
-      <img src="https://github.com/identicons/joao.png" width="80%" alt="Profile Picture">
-    </td>
-    <td width="60%">
+**Você também me encontra em:**
 
-```python
-me = {
-    "code": ["Python", "R", "SQL"],
-    "tools": ["Google Colab", "Pandas", "Flask", "Git"],
-    "about_me": [
-        "I am a Statistics student at UFRJ.",
-        "I have experience with historical climate data research.",
-        "I am always studying to become a great Data Scientist."
-    ],
-    "soft_skills": ["Analytical Thinking", "Teamwork", "Problem Solving"],
-    "loves": ["Data Analysis", "Technology", "Web Engineering"]
-}
+<p align="left">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-if need_data_scientist:
-    contact_me("your_email@gmail.com")
-else:
-    invite("See my Projects")
+<br>
+
+**E pode aproveitar pra ver alguns projetos em que estive envolvido:**
+
+* [Análise histórica de dados climáticos ERA5 (1940-2026) via Google Colab](#)
+* [COLMEIA - Projeto de startup com foco em inovação e parceria com Google Cloud](#)
+* [Desenvolvimento e trabalho em equipe no Hackathon Bemobi (HACKTUDO)](#)
