@@ -1,22 +1,38 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14354C&height=150&section=header" width="100%"/>
-</div>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bf7d&height=150&section=header" width="100%">
 
-<h3 align="center">Glad to see you here! 📊</h3>
-<p align="center">My name is João Victor.</p>
+<div align="center">
+
+### Hello World! 📊 ✨
+**My name is Joao Victor.**
+
+</div>
 
 <br>
 
-<a href="#">
-  <img align="left" width="35%" src="https://64.media.tumblr.com/d1c3c440972312cd037af0b041ea3a88/tumblr_pnm8l1DrRK1rgx1dyo1_540.gif" />
-</a>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <!-- Replace the link below with your own picture or illustration -->
+      <img src="https://github.com/identicons/joao.png" width="80%" alt="Profile Picture">
+    </td>
+    <td width="60%">
 
 ```python
-def get_professional_profile():
-    return {
-        "education": "Statistics Undergraduate at UFRJ",
-        "role": "Data Analyst & Data Scientist",
-        "skills": ["Python", "R", "SQL", "Machine Learning", "ETL"],
-        "superpower": "Blending analytical skills with business strategy",
-        "current_focus": "Building data pipelines and statistical modeling"
-    }
+me = {
+    "code": ["Python", "R", "SQL"],
+    "tools": ["Google Colab", "Pandas", "Flask", "Git"],
+    "about_me": [
+        "I am a Statistics student at UFRJ.",
+        "I have experience with historical climate data research.",
+        "I am always studying to become a great Data Scientist."
+    ],
+    "soft_skills": ["Analytical Thinking", "Teamwork", "Problem Solving"],
+    "loves": ["Data Analysis", "Technology", "Web Engineering"]
+}
+
+if need_data_scientist:
+    contact_me("your_email@gmail.com")
+else:
+    invite("See my Projects")
