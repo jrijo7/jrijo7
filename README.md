@@ -10,10 +10,10 @@ Estudante de Estatística e apaixonado por dados. Focado em me tornar Cientista/
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
 </p>
 
-<br>
+---
 
 **Você também me encontra em:**
 
@@ -22,7 +22,7 @@ Estudante de Estatística e apaixonado por dados. Focado em me tornar Cientista/
   <a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<br>
+---
 
 **E pode aproveitar pra ver alguns projetos de análise de dados que eu criei:**
 
