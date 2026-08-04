@@ -1,21 +1,28 @@
-### Hello World, I'm Joao Victor, be very welcome
+### 👋 Hi there
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrijo7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrijo7&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
-</div>
+I am Joao Victor, a Statistics undergraduate student at UFRJ with a deep passion for data. I am currently focusing my studies and practical projects on becoming a Data Scientist and Data Analyst. I love the process of solving problems and turning complex numbers into clear, useful information.
 
-<br>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</div>
+### 🚀 Expertise
 
-<br>
+My academic background gives me a very solid foundation in statistics and mathematical models. I am currently working as an undergraduate scientific researcher at my university, where I extract and analyze large volumes of environmental data. For example, I recently worked on an automation project to analyze historical climate data spanning from 1940 to 2026.
 
-<div align="center">
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
-  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
-</div>
+I believe in learning by doing, so I am always trying to connect academic theory with hands-on practice. Outside of my professional and academic life, I enjoy exploring new technologies and spending my free time relaxing with my dog, Batatinha. 
+
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+> "In God we trust, all others must bring data." — W. Edwards Deming
