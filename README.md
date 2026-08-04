@@ -1,17 +1,16 @@
 ### Joao Victor aqui :)
 
-Estudante de Estatística e apaixonado por dados. Em transição para me tornar Cientista/Analista de Dados, unindo a base acadêmica sólida com desenvolvimento de projetos reais, pesquisa científica e engenharia web.
+Estudante de Estatística e apaixonado por dados. Focado em me tornar Cientista/Analista de Dados, unindo a base acadêmica com o desenvolvimento de projetos práticos e pesquisa científica.
 
 * 🎓 Graduando em Estatística na **UFRJ**
-* 🔬 Pesquisador de iniciação científica atuando com análise e extração de grandes volumes de dados ambientais
-* 🐶 Nas horas vagas, apaixonado por tecnologia e por passar o tempo com meu cachorro, Batatinha
+* 🔬 Pesquisador de iniciação científica, trabalhando com extração e análise de grandes volumes de dados ambientais
+* 🐶 Nas horas vagas, gosto de tecnologia e de passar o tempo com meu cachorro, Batatinha
 * 💻 Atualmente mais focado em:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
 </p>
 
 <br>
@@ -25,8 +24,8 @@ Estudante de Estatística e apaixonado por dados. Em transição para me tornar 
 
 <br>
 
-**E pode aproveitar pra ver alguns projetos em que estive envolvido:**
+**E pode aproveitar pra ver alguns projetos de análise de dados que eu criei:**
 
 * [Análise histórica de dados climáticos ERA5 (1940-2026) via Google Colab](#)
-* [COLMEIA - Projeto de startup com foco em inovação e parceria com Google Cloud](#)
-* [Desenvolvimento e trabalho em equipe no Hackathon Bemobi (HACKTUDO)](#)
+* [Projeto de Análise Exploratória de Dados (Substitua pelo link do seu repositório)](#)
+* [Modelagem Estatística / Scripts de Automação (Substitua pelo link do seu repositório)](#)
